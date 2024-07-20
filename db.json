@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "title": "Forza Horizon 5",
+    "developers": "Playground Games",
+    "publishers": "Xbox Game Studios",
+    "price": 3,
+    "category": "Racing",
+    "games_sold": 30,
+    "description": "Forza Horizon 5 is a 2021 racing video game developed by Playground Games and published by Xbox Game Studios. It is the fifth Forza Horizon title and twelfth main instalment in the Forza series. The game is set in a fictionalised representation of Mexico. It was released on 9 November 2021 ... ",
+    "poster": "https://i.pinimg.com/564x/12/e0/c9/12e0c9c80a81c3423132cb532283b2e9.jpg"
+  },
+  {
+    "id": "2",
+    "title": "The Crew Motorfest",
+    "developers": "Ubisoft Ivory Tower",
+    "Publisher(s)": "Ubisoft",
+    "price": 6.4,
+    "category": "racing",
+    "games_sold": 45,
+    "description": "The Crew Motorfest is a 2023 racing video game developed by Ubisoft Ivory Tower and published by Ubisoft for PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X/S. It is the sequel to 2018's The Crew 2 and the third game in The Crew series, and was released on September 14, 2023.",
+    "poster": "https://i.pinimg.com/564x/88/5e/68/885e68be0a6143028ddbbade7dba8235.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Need for speed heat",
+    "developers": "Ghost Games",
+    "Publisher(s)": "Electronic Arts",
+    "price": 20,
+    "category": "Racing",
+    "games_sold": 50,
+    "description": "Need for Speed Heat (stylised as NFS Heat) is a 2019 racing video game developed by Ghost Games and published by Electronic Arts for PlayStation 4, Windows, and Xbox One. It is the twenty-fourth installment in the Need for Speed series and commemorates the series' 25th anniversary.",
+    "poster": "https://imgs.search.brave.com/KsktnCwMa76ilfgBofU0H_kETJ3urDo2SiNLQrQMcac/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2E1L2Vi/L2M4L2E1ZWJjODc2/Yjg2MzZjY2FiMmM0/YjcxYWFjNTRkNjRl/LmpwZw"
+  },
+  {
+    "id": "4",
+    "title": "Dirt 5",
+    "developers": "Codemasters Cheshire",
+    " Publisher(s)": "Codemasters",
+    "price": 90,
+    "category": "Racing",
+    "games_sold": 78,
+    "description": "Dirt 5 is a simcade racing video game developed and published by Codemasters. The game was released for PlayStation 4, Windows, and Xbox One on 6 November 2020, for Xbox Series X/S on 10 November, and for PlayStation 5 on 12 November (for North America, Oceania, Japan, and South Korea) and ...",
+    "poster": "https://imgs.search.brave.com/tPzxUopLO4_A0tS0quU6X0mFlGvDbStzq02hUSDYXOI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk5qRXhPR1F6/TWpZdE16SXhNQzAw/T0RJekxXSmxNemd0/WlRGbE16RTRNMlUx/Wm1Vd1hrRXlYa0Zx/Y0dkZVFYVnlOVGd5/TlRBNE1qTUAuanBn"
+  },
+  {
+    "id": "5",
+    "title": "Dirt Rally2.0",
+    "developers": "Codemasters",
+    "Publisher(s)": "Codemasters",
+    "price": 60,
+    "category": "Racing",
+    "games_sold": 45,
+    "description": "Dirt Rally 2.0 (stylised as DiRT Rally 2.0) is a racing simulation video game developed and published by Codemasters for PlayStation 4, Windows, and Xbox One. It was released on 26 February 2019. A version for Amazon Luna followed on 3 June 2021.",
+    "poster": "https://imgs.search.brave.com/6GzEqFdJlleqDuCxt0h7M5z2Zw2pfl7wL1c1XxXfC-k/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/OS85MC9EaXJ0X1Jh/bGx5XzIuMF9hcnR3/b3JrLmpwZy81MTJw/eC1EaXJ0X1JhbGx5/XzIuMF9hcnR3b3Jr/LmpwZw"
+  },
+  {
+    "id": "6",
+    "title": "Assetto Corsa",
+    "developers": "Kunos Simulazioni",
+    "Publisher(s)": "Kunos Simulazioni (PC)",
+    "price": 112,
+    "category": "Racing simulation",
+    "games_sold": 34,
+    "description": "Assetto Corsa (Italian for Race Setup) is a sim racing video game developed by the Italian video game developer Kunos Simulazioni. It is designed with an emphasis on a realistic racing experience with support for extensive customization and moddability. The game was first released through ... ",
+    "poster": "https://imgs.search.brave.com/nqEHQyNxj_tHxBAFdq15pZJYtkVspHDWpMUjsw1wF2w/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/Yy9jOC9Bc3NldHRv/X0NvcnNhX2NvdmVy/LnBuZy81MTJweC1B/c3NldHRvX0NvcnNh/X2NvdmVyLnBuZw"
+  },
+  {
+    "id": "7",
+    "title": "injustice 2",
+    "developers": "NetherRealm Studios",
+    "Publisher(s)": "Warner Bros. Interactive Entertainment.",
+    "price": 34,
+    "category": "Fighting",
+    "games_sold": 22,
+    "description": "Injustice 2 is a 2017 fighting video game. It is the sequel to 2013's Injustice: Gods Among Us and the second installment in the Injustice series which is based on the DC Universe. It is developed by NetherRealm Studios and published by Warner Bros. Interactive Entertainment. ",
+    "poster": "https://imgs.search.brave.com/8Xto2RhALJ1Rtm1MgbAh0WQqgdNvJWGJ3ugBavoconw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/My8zNi9Jbmp1c3Rp/Y2VfMl9Db3Zlci5q/cGcvNTEycHgtSW5q/dXN0aWNlXzJfQ292/ZXIuanBn"
+  },
+  {
+    "id": "8",
+    "title": "injustice god amoung us",
+    "developers": "NetherRealm Studios",
+    "Publisher(s)": "Warner Bros. Interactive Entertainment.",
+    "price": 90,
+    "category": "Fighting",
+    "games_sold": 33,
+    "description": "Injustice: Gods Among Us is a 2013 fighting video game. It is the first installment in the Injustice franchise based upon the fictional universe of DC Comics. The game was developed by NetherRealm Studios and published by Warner Bros.",
+    "poster": "https://imgs.search.brave.com/U19mr6lgiKWhQbC5YVRtGulGkTDLPywaHxwCygUBbEE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/Zi9mOC9Jbmp1c3Rp/Y2VfR29kc19BbW9u/Z19Vc19Db3Zlcl9B/cnQuanBnLzUxMnB4/LUluanVzdGljZV9H/b2RzX0Ftb25nX1Vz/X0NvdmVyX0FydC5q/cGc"
+  },
+  {
+    "id": "9",
+    "title": "Mortal Kombat 11",
+    "developers": "NetherRealm Studios",
+    "Publisher(s)": "Warner Bros. Interactive Entertainment",
+    "price": 46,
+    "category": "Fighting",
+    "games_sold": 60,
+    "description": "Mortal Kombat 11 is a 2019 fighting game developed by NetherRealm Studios and published by Warner Bros. Interactive Entertainment. It is the eleventh main installment in the Mortal Kombat series and a sequel to Mortal Kombat X (2015). The game was announced at The Game Awards 2018",
+    "poster": "https://imgs.search.brave.com/VrpI3MzYn-bOTyWbOxQSNpIjIEInKh5BHWRAA2T40cg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFXRU84Uk9COEwu/anBn"
+  },
+  {
+    "id": "10",
+    "title": "FC24",
+    "developers": "EA Vancouver , EA Romania",
+    "Publisher(s)": "EA Sports",
+    "price": 11,
+    "category": "Sports",
+    "games_sold": 100,
+    "description": "EA Sports FC 24 is an association football-themed simulation video game developed by EA Vancouver and EA Romania and published by EA Sports. It is the inaugural installment in the EA Sports FC series, succeeding the FIFA video game series after Electronic Arts's partnership with FIFA ",
+    "poster": "https://imgs.search.brave.com/buM0tKc-xsX2ZpCn6EU5XU1uuLPPMr5ulTq-xnoYDYE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzE4QlNyalFqY0wu/anBn"
+  },
+  {
+    "id": "11",
+    "title": "Battle Field 5",
+    "developers": "DICE",
+    "Publisher(s)": "Electronic Arts",
+    "price": 34,
+    "category": "First-person shooter",
+    "games_sold": 12,
+    "description": "Battlefield V is a 2018 first-person shooter game developed by DICE and published by Electronic Arts. The game is the successor to 2016's Battlefield 1 and the eleventh main installment in the Battlefield series. It is based on World War II and is a thematic continuation of its World War I-based ",
+    "poster": "https://imgs.search.brave.com/lN1fLdxvi1s-2cjmkvbXzBQzwCN9bJ16tPEF7ZKG-_Y/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/Zi9mMC9CYXR0bGVm/aWVsZF9WX3N0YW5k/YXJkX2VkaXRpb25f/Ym94X2FydC5qcGcv/NTEycHgtQmF0dGxl/ZmllbGRfVl9zdGFu/ZGFyZF9lZGl0aW9u/X2JveF9hcnQuanBn"
+  },
+  {
+    "id": "12",
+    "title": "NBA 2K24",
+    "developers": "Visual Concepts Austin",
+    "Publisher(s)": "2K",
+    "price": 77,
+    "category": "Sports",
+    "games_sold": 13,
+    "description": "BA 2K24 is a 2023 basketball video game developed by Visual Concepts Austin and published by 2K, based on the National Basketball Association (NBA). It is the 25th installment in the NBA 2K franchise and is the successor to NBA 2K23.",
+    "poster": "https://imgs.search.brave.com/F3lHz0_iai-LOMgZLcsqTInrQT_juSMkFD8Dad0wcl0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/NC80OC9OQkFfMksy/NF9jb3Zlcl9hcnQu/anBnLzUxMnB4LU5C/QV8ySzI0X2NvdmVy/X2FydC5qcGc"
+  }
+]
