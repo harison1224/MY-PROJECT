@@ -26,15 +26,15 @@ document.addEventListener("DOMContentLoaded", () => {
     })
 })
 
-function fetchGames(searchTerm = '') {
-    const options = {
-        method: "GET",
-        headers: {
-            "Content-Type": "application/json",
-        },
-    };
+function fetchGames(searchTerm = '' ) {
+     const options = {
+         method: "GET",
+         headers: {
+           "Content-Type": "application/json",
+       },
+     };
 
-    fetch(`${BASE_URL}`, options)
+    fetch(`${BASE_URL}`)
         .then((response) => response.json())
         .then((games) => {
             // Filter games based on the search term
@@ -125,6 +125,7 @@ function pcGame(game) {
      const offcanvasElement = document.getElementById('offcanvasExample');
   
  });
+ //append child 
 
  // Append button to body
  document.body.appendChild(purchaseButton);
